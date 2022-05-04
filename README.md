@@ -1,9 +1,9 @@
-# **Alt-County Sales Tax Calculator**
+# **County Sales Tax Calculator**
 
-## Contributors: 
+## **Contributors:**
   ##### Andrew Traphagan, Athena Lee, Jacob Holback, Khushi Desai, & Rebecca Blasco.
 
-## Code Summary & Purpose:
+## **Code Summary & Purpose:**
   ### _Original Code:_
   ##### The original code focused on an application that would calculate the sales tax applied to the item prices of a transaction that have been inputted by a user.       The sales tax applied was dependent on Monterey County's sales tax rate, which allowed the code to apply the appropriate sales tax to the inputted transaction to         achieve three different results: total without tax, sales tax applied, and total with tax. These results would then be displayed within the application's interface       for the user. (Original code created by Andrew Traphagan)
   ### _Updated Code:_
@@ -11,4 +11,4 @@
   ### _Purpose:_
   ##### This new application is aimed at making it easier for people to calculate how much they are going to be spending at a physical and/or some online store             environments for their desired items rather than purchasing these items without knowing how much tax will be applied to their transaction(s).
 
-## What's New:
+## **What's New:**
