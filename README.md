@@ -12,6 +12,12 @@
   ##### This new application is aimed at making it easier for users to calculate how much they are going to be spending at a physical and/or some online store          environments for their desired items rather than purchasing these items without knowing how much tax will be applied to their transaction(s).
 
 ## **Major Functions:**
+main: 
+1. addinput()
+2. total()
+3. enterzipcode()
+taxapi:
+1. taxrate()
 
 ## **Explanations:**
 
