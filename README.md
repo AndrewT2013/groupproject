@@ -40,3 +40,9 @@ taxapi:
 
 ## **References:**
   ##### https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061
+  
+## **Team Contributions:**
+  ### _Zoom Meeting (April 10, 2022)_
+  ##### All contributors met from 9:30 am - 10:30 am to discuss what project we would use for our group project and what would be changed to submit our project proposal.
+  ### _Zoom Meeting (May 4, 2022)_
+  ##### All contributors met from 12:00 pm - 1:30 pm to discuss changes to project the project code that we had made, where files will be saved (via GitHub repository), and worked on both the README and PowerPoint files to further provide coding summaries, functions, explanations, outside sourcing, limitations, repositiories, references, and presentations.
