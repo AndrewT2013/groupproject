@@ -16,9 +16,9 @@
 ## **Explanations:**
 
 ## **Outside Sources:**
-API sources: 
-https://developers.taxjar.com/api/reference/?python
-https://github.com/taxjar/taxjar-python
+  ### _API sources:_
+  ##### https://developers.taxjar.com/api/reference/?python
+  ##### https://github.com/taxjar/taxjar-python
 
 ## **Limitations:**
 
