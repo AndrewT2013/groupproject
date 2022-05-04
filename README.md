@@ -1,4 +1,4 @@
-# County Sales Tax Calculator
+# **County Sales Tax Calculator**
 ## Contributors: 
 #### Andrew Traphagan, Athena Lee, Jacob Holback, Khushi Desai, & Rebecca Blasco.
 ## Code Summary (Original Versus Updated Code):
