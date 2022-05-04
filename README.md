@@ -1,4 +1,4 @@
-# **California County Sales Tax Calculator**
+# **California Counties Sales Tax Calculator**
 
 ## **Contributors:**
   ##### Andrew Traphagan, Athena Lee, Jacob Holback, Khushi Desai, & Rebecca Blasco.
