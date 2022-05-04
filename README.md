@@ -19,6 +19,8 @@
 
 ## **Limitations:**
 
+  ##### 1. Application is limited to postal and zip codes within the United States, but does not include international codes from other countries.
+
 ## **Project Host/Repository:**
 
   ##### https://github.com/AndrewT2013/groupproject/
