@@ -4,7 +4,7 @@ from tax import taxrate
 
 # Build GUI #
 window = Tk()
-window.title('Monterey County Sales Tax Calculator')
+window.title('US Sales Tax Calculator')
 window.geometry('450x400')
 window.resizable(0, 0)
 window.config(bg='gray')
@@ -26,7 +26,7 @@ for i in range(num_inputs):
 # tax calculation
 def total():
 
-   addition = sum(map(lambda inp: inp['value'].get(), inputs))
+   addition = round(sum(map(lambda inp: inp['value'].get(), inputs)),2)
    taxed = round(taxrate(zipcodeEntry.get()) * addition, 2)
    total = round(addition + taxed, 2)
 
