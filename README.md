@@ -12,25 +12,16 @@
   ##### This new application is aimed at making it easier for users to calculate how much they are going to be spending at a physical and/or some online store          environments for their desired items rather than purchasing these items without knowing how much tax will be applied to their transaction(s).
 
 ## **Major Functions:**
-  ### _Main:_ 
-  ##### 1. addinput()
-  ##### 2. total()
-  ##### 3. enterzipcode()
-
-  ### _Taxapi:_
-  ##### 1. taxrate()
+  ##### Our Major Functions include an api, multiple def functions, multiple labels, entry boxes, and a button. Our api labeled "Taxapi" which utilizes our code from our other python file, which retrieves data from a Tax database. This allows use to find tax rates throughout every county in the United States. This also allows our code to automatically receive updates in tax rates, rather than us having to manually input them. Our first def function (def add_input) . Our second def function (total) gathers the inputted values of the entry boxes for the equation. Then it applies the sales tax given. This functions also utilizes our button labeled "calculate". Our final def function labeled (enterZipcode) allows the user to enter their choice of a zip code, then displays the tax rate in the zip code. this tax rate is then applied to the overall cost of items.
 
 ## **Explanations:**
 
 ## **Outside Sources:**
-  ### _API sources:_
-  ##### https://developers.taxjar.com/api/reference/?python
-  ##### https://github.com/taxjar/taxjar-python
 
 ## **Limitations:**
 
-  ##### 1. Application is limited to postal and zip codes within the United States and does **NOT** include international codes from other countries.
-  ##### 2. Application can work with online purchases, but it depends on the online storefront as the application does **NOT** take shipping costs into account.
+  ##### 1. Application is limited to postal and zip codes within the United States, but does not include international codes from other countries.
+  ##### 2. Application can work with online purchases, but it depends on the online storefront as the application does NOT take shipping costs into account.
 
 ## **Project Host/Repository:**
 
@@ -40,9 +31,3 @@
 
 ## **References:**
   ##### https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061
-  
-## **Team Contributions:**
-  ### _Zoom Meeting (April 10, 2022)_
-  ##### All contributors met from 9:30 am - 10:30 am to discuss what project we would use for our group project and what would be changed to submit our project proposal.
-  ### _Zoom Meeting (May 4, 2022)_
-  ##### All contributors met from 12:00 pm - 1:30 pm to discuss changes to project the project code that we had made, where files will be saved (via GitHub repository), and worked on both the README and PowerPoint files to further provide coding summaries, functions, explanations, outside sourcing, limitations, repositiories, references, and presentations.
