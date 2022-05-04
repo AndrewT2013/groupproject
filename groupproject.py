@@ -1,5 +1,5 @@
 from tkinter import *
-from tax import taxrate
+from taxapi import taxrate
 
 
 # Build GUI #
