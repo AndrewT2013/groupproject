@@ -1,7 +1,6 @@
 from tkinter import *
 from taxapi import taxrate
 
-
 # Build GUI #
 window = Tk()
 window.title('US Sales Tax Calculator')
