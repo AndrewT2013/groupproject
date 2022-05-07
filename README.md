@@ -17,18 +17,16 @@
 ## **Explanations:**
 
 ## **Outside Sources:**
+    ##### https://developers.taxjar.com/api/guides/python/#python-quickstart
 
 ## **Limitations:**
-
   ##### 1. Application is limited to postal and zip codes within the United States, but does not include international codes from other countries.
   ##### 2. Application can work with online purchases, but it depends on the online storefront as the application does NOT take shipping costs into account.
 
 ## **Project Host/Repository:**
-
   ##### https://github.com/AndrewT2013/groupproject/
 
 ## **GUI Screenshots:**
 
 ## **References:**
-  ##### https://developers.taxjar.com/api/guides/python/#python-quickstart
   ##### https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061
