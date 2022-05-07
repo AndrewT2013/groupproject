@@ -17,7 +17,7 @@
 ## **Explanations:**
 
 ## **Outside Sources:**
-    ##### https://developers.taxjar.com/api/guides/python/#python-quickstart
+  ##### https://developers.taxjar.com/api/guides/python/#python-quickstart
 
 ## **Limitations:**
   ##### 1. Application is limited to postal and zip codes within the United States, but does not include international codes from other countries.
