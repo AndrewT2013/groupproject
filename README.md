@@ -31,6 +31,8 @@
 ## **GUI Screenshots:**
   ##### Base GUI in Windows OS. 
   <img src = "calculatorwinos.jpg">
+  ##### GUI Final Results example in Windows OS.
+  <img src = "calculatorwinosfinal.jpg">
   
 ## **References:**
   ##### https://developers.taxjar.com/api/guides/python/#python-quickstart
