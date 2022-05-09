@@ -51,22 +51,21 @@ totalLabel.place(x=240, y=130)
 # Buttons For GUI
 calculateButton = Button(window, text='Calculate', command=total, bg='#90EE90').place(x=300, y=165)
 
-scrollbar = Scrollbar(window)
-scrollbar.pack( side = RIGHT, fill = Y )
-
 #zipcode
 def enterZipcode():
    zipcodemessage = 'Your zipcode is ' + zipcodeEntry.get() + \
                     ' and the tax rate is ' + str(taxrate(zipcodeEntry.get())*100) +'%'
    showzipcodeLabel = Label(window, text=zipcodemessage)
-   showzipcodeLabel.place(x=70, y=350)
+   showzipcodeLabel.place(x=60, y=365)
    return zipcodeEntry.get()
 
 
+zipcodeLabel = Label(window, height=1, width=20, font=('Arial'), text='Enter your Zipcode', bg='grey')
+zipcodeLabel.place(x=40, y=285)
 zipcodeEntry = Entry(window)
-zipcodeEntry.place(x=150, y=300)
+zipcodeEntry.place(x=70, y=310)
 zipcodeButton = Button(window, text='Enter ZipCode',command=enterZipcode)
-zipcodeButton.place(x=10, y= 300)
+zipcodeButton.place(x=90, y= 335)
 
 window.mainloop()
 
