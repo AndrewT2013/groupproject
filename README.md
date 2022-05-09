@@ -21,7 +21,8 @@
 
 ## **Limitations:**
   ##### 1. Application is limited to postal and zip codes within the United States, but does not include international codes from other countries.
-  ##### 2. Application can work with online purchases, but it depends on the online storefront as the application does NOT take shipping costs into account.
+  ##### 2. Application is limited to 10 items for the price list, but can later implement a scoll inoput list in the future fotr more inputs.
+  ##### 3. Application can work with online purchases, but it depends on the online storefront as the application does NOT take shipping costs into account.
 
 ## **Project Host/Repository:**
   ##### https://github.com/AndrewT2013/groupproject/
