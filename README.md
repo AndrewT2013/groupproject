@@ -29,6 +29,7 @@
   ##### https://github.com/AndrewT2013/groupproject/
 
 ## **GUI Screenshots:**
-
+  ##### <img src = "calculatorwinos.jpg">
+  
 ## **References:**
   ##### https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061
