@@ -59,15 +59,14 @@ def enterZipcode():
    zipcodemessage = 'Your zipcode is ' + zipcodeEntry.get() + \
                     ' and the tax rate is ' + str(taxrate(zipcodeEntry.get())*100) +'%'
    showzipcodeLabel = Label(window, text=zipcodemessage)
-   showzipcodeLabel.place(x=140, y=290)
+   showzipcodeLabel.place(x=70, y=350)
    return zipcodeEntry.get()
 
-zipcodeLabel = Label(window, text='Enter your Zipcode')
-zipcodeLabel.place(x=264, y=205)
+
 zipcodeEntry = Entry(window)
-zipcodeEntry.place(x=240, y=230)
+zipcodeEntry.place(x=150, y=300)
 zipcodeButton = Button(window, text='Enter ZipCode',command=enterZipcode)
-zipcodeButton.place(x=300, y= 260)
+zipcodeButton.place(x=10, y= 300)
 
 window.mainloop()
 
