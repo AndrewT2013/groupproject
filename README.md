@@ -29,9 +29,9 @@
   ##### https://github.com/AndrewT2013/groupproject/
 
 ## **GUI Screenshots:**
-  ##### Base GUI in Windows OS. 
+  Base GUI in Windows OS. 
   <img src = "calculatorwinos.jpg">
-  ##### GUI Final Results example in Windows OS.
+  GUI Final Results example in Windows OS.
   <img src = "calculatorwinosfinal.jpg">
   
 ## **References:**
